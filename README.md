@@ -1,16 +1,31 @@
-# task_master_pro
+TASK MASTER PRO
+​
+A professional Task Management application developed during the DevelopersHub Flutter Internship.
+​KEY FEATURES
+​Real-Time Synchronization: Integrated with Firebase Firestore to ensure tasks are synced across devices.
+​Offline Persistence: Uses SharedPreferences to save tasks locally so they are never lost.
+​Task Reminders: Integrated Flutter Local Notifications to alert users of upcoming tasks.
+​Custom UI: Features a custom animated splash screen and a clean Material 3 dark-themed interface.
 
-A new Flutter project.
+SETUP AND INSTALLATION
 
-## Getting Started
+​To run this project locally, follow these steps:
+   1. Clone the Repository: git clone https://github.com/aymenkhan1144/task_master_pro.git
+   2. Get Dependencies:
+Navigate to the project folder and run: flutter pub get
+   3. Firebase Configuration:
+​Ensure the google-services.json file is present in the android/app/ directory.
+   4. Run the App: flutter run
+    
+DELIVERABLES INCLUDED
+​Full Source Code
+​Project Demonstration Video
+​Firebase Console Verification Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+​Full Source Code
+​Project Demonstration Video
+​Firebase Console Verification Screenshot
