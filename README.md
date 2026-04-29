@@ -21,11 +21,4 @@ DELIVERABLES INCLUDED
 ​Full Source Code
 ​Project Demonstration Video
 ​Firebase Console Verification Screenshot
-
-
-
-
-
-​Full Source Code
-​Project Demonstration Video
-​Firebase Console Verification Screenshot
+
