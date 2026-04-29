@@ -1,6 +1,6 @@
 TASK MASTER PRO
 ​
-A professional Task Management application developed during the DevelopersHub Flutter Internship.
+=> A professional Task Management application developed during the DevelopersHub Flutter Internship.
 ​KEY FEATURES
 ​Real-Time Synchronization: Integrated with Firebase Firestore to ensure tasks are synced across devices.
 ​Offline Persistence: Uses SharedPreferences to save tasks locally so they are never lost.
@@ -18,7 +18,7 @@ Navigate to the project folder and run: flutter pub get
    4. Run the App: flutter run
     
 DELIVERABLES INCLUDED
-​Full Source Code
-​Project Demonstration Video
-​Firebase Console Verification Screenshot
+1.​ Full Source Code
+2. ​Project Demonstration Video
+3. ​Firebase Console Verification Screenshot
 
