@@ -30,8 +30,6 @@ To run this project locally on your machine, follow these steps:
 4. **Run the Application:**
    flutter run
 
----
-
 ## 📦 Deliverables Included
 
 1. **Full Production Source Code**
