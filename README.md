@@ -34,5 +34,4 @@ To run this project locally on your machine, follow these steps:
 
 1. **Full Production Source Code**
 2. **Project Demonstration Video Workflow**
-3. **Firebase Console Verification Screenshots**
-4.
+3. **Firebase Console Verification Screenshots**
