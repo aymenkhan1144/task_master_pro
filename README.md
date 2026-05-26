@@ -4,7 +4,7 @@ A professional, production-ready Task Management application developed with Flut
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Real-Time Synchronization:** Integrated with Firebase Firestore to ensure your tasks are seamlessly synced across devices instantly.
 * **Offline Persistence:** Uses the `SharedPreferences` engine to save task matrices locally so your data is never lost, even without internet connectivity.
@@ -13,7 +13,7 @@ A professional, production-ready Task Management application developed with Flut
 * **Asynchronous Web Orchestration:** Built-in network service layers capable of live asynchronous data fetching and parsing external JSON APIs dynamically.
 
 
-## 🔧 Setup and Installation
+## Setup and Installation
 
 To run this project locally on your machine, follow these steps:
 
@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 4. **Run the Application:**
    flutter run
 
-## 📦 Deliverables Included
+## Deliverables Included
 
 1. **Full Production Source Code**
 2. **Project Demonstration Video Workflow**
